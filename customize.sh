@@ -1,5 +1,5 @@
 #!/sbin/sh
-# Heimdall For Android NDK
+# Newflasher and Xflasher For Android
 SKIPUNZIP=1
 
 # Direct Install via Normal Mode
@@ -28,4 +28,4 @@ ui_print "- Setting permissions"
 set_perm_recursive $MODPATH 0 0 0755 0644
 set_perm_recursive $MODPATH/system/bin 0 0 0755 0755
 
-ui_print "- Heimdall For Android NDK installed successfully."
+ui_print "- Newflasher and Xflasher For Android installed successfully."
