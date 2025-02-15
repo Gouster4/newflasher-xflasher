@@ -1,9 +1,8 @@
-# Heimdall For Android NDK
-Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
-Static binary build for Android multi architecture target builded by NDK.
+# Newflasher ans Xflasher For Android
+Newflasher and Xflasher are cross-platform open-source tool suite used to flash firmware (aka ROMs) onto SONY Xperia mobile devices.
 
 # How does Heimdall work?
-Heimdall connects to a mobile device over USB and interacts with low-level software running on the device, known as Loke. Loke and Heimdall communicate via the custom Samsung-developed protocol typically referred to as the 'Odin 3 protocol'.
+Newflasher and Xflasher connects to a mobile device over USB and interacts with low-level software running on the device, known as Loke. Loke and Heimdall communicate via the custom Samsung-developed protocol typically referred to as the 'Odin 3 protocol'.
 USB communication in Heimdall is handled by the popular open-source USB library, libusb.
 
 # License
