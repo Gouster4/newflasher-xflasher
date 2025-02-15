@@ -1,4 +1,4 @@
-# Newflasher ans Xflasher For Android
+# Newflasher and Xflasher For Android
 Newflasher and Xflasher are cross-platform open-source tool suite used to flash firmware (aka ROMs) onto SONY Xperia mobile devices.
 
 # How does Heimdall work?
